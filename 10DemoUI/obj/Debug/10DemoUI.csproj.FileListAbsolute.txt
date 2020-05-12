@@ -1,0 +1,13 @@
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\10DemoUI\bin\Debug\10DemoUI.exe.config
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\10DemoUI\bin\Debug\10DemoUI.exe
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\10DemoUI\bin\Debug\10DemoUI.pdb
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\10DemoUI\bin\Debug\10DemoUI.Core.dll
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\10DemoUI\bin\Debug\10DemoUI.Core.pdb
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\10DemoUI\obj\Debug\10DemoUI.csprojAssemblyReference.cache
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\10DemoUI\obj\Debug\_10DemoUI.Form1.resources
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\10DemoUI\obj\Debug\_10DemoUI.Properties.Resources.resources
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\10DemoUI\obj\Debug\10DemoUI.csproj.GenerateResource.cache
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\10DemoUI\obj\Debug\10DemoUI.csproj.CoreCompileInputs.cache
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\10DemoUI\obj\Debug\10DemoUI.csproj.CopyComplete
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\10DemoUI\obj\Debug\10DemoUI.exe
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\10DemoUI\obj\Debug\10DemoUI.pdb

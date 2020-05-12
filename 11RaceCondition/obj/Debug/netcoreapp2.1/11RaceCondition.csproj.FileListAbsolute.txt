@@ -1,0 +1,12 @@
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\11RaceCondition\bin\Debug\netcoreapp2.1\11RaceCondition.deps.json
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\11RaceCondition\bin\Debug\netcoreapp2.1\11RaceCondition.runtimeconfig.json
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\11RaceCondition\bin\Debug\netcoreapp2.1\11RaceCondition.runtimeconfig.dev.json
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\11RaceCondition\bin\Debug\netcoreapp2.1\11RaceCondition.dll
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\11RaceCondition\bin\Debug\netcoreapp2.1\11RaceCondition.pdb
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\11RaceCondition\obj\Debug\netcoreapp2.1\11RaceCondition.csprojAssemblyReference.cache
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\11RaceCondition\obj\Debug\netcoreapp2.1\11RaceCondition.csproj.CoreCompileInputs.cache
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\11RaceCondition\obj\Debug\netcoreapp2.1\11RaceCondition.AssemblyInfoInputs.cache
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\11RaceCondition\obj\Debug\netcoreapp2.1\11RaceCondition.AssemblyInfo.cs
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\11RaceCondition\obj\Debug\netcoreapp2.1\11RaceCondition.dll
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\11RaceCondition\obj\Debug\netcoreapp2.1\11RaceCondition.pdb
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\11RaceCondition\obj\Debug\netcoreapp2.1\11RaceCondition.genruntimeconfig.cache

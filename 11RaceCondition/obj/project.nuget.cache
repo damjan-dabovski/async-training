@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "yQ592idi19d3F0ifcU78OWtnRGC93rxIOX4jZa/z7+RFkBvvzV2pa08Ho5fB/C6eI6c9z2pVAFU6yRXWPXzV8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ddabovski\\Downloads\\advanced.day.02.threading\\11RaceCondition\\11RaceCondition.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ddabovski\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\ddabovski\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\ddabovski\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\ddabovski\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\ddabovski\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\ddabovski\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\ddabovski\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

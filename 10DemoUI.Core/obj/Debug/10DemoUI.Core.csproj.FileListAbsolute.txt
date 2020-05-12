@@ -1,0 +1,6 @@
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\10DemoUI.Core\bin\Debug\10DemoUI.Core.dll
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\10DemoUI.Core\bin\Debug\10DemoUI.Core.pdb
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\10DemoUI.Core\obj\Debug\10DemoUI.Core.csprojAssemblyReference.cache
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\10DemoUI.Core\obj\Debug\10DemoUI.Core.csproj.CoreCompileInputs.cache
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\10DemoUI.Core\obj\Debug\10DemoUI.Core.dll
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\10DemoUI.Core\obj\Debug\10DemoUI.Core.pdb

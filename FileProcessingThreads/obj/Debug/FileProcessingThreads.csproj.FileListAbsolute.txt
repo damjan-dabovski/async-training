@@ -1,0 +1,7 @@
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\FileProcessingThreads\obj\Debug\FileProcessingThreads.csprojAssemblyReference.cache
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\FileProcessingThreads\obj\Debug\FileProcessingThreads.csproj.CoreCompileInputs.cache
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\FileProcessingThreads\bin\Debug\FileProcessingThreads.exe.config
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\FileProcessingThreads\bin\Debug\FileProcessingThreads.exe
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\FileProcessingThreads\bin\Debug\FileProcessingThreads.pdb
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\FileProcessingThreads\obj\Debug\FileProcessingThreads.exe
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\FileProcessingThreads\obj\Debug\FileProcessingThreads.pdb

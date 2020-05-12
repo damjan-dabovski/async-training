@@ -1,0 +1,12 @@
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\09DemoSum\bin\Debug\netcoreapp2.1\09DemoSum.deps.json
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\09DemoSum\bin\Debug\netcoreapp2.1\09DemoSum.runtimeconfig.json
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\09DemoSum\bin\Debug\netcoreapp2.1\09DemoSum.runtimeconfig.dev.json
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\09DemoSum\bin\Debug\netcoreapp2.1\09DemoSum.dll
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\09DemoSum\bin\Debug\netcoreapp2.1\09DemoSum.pdb
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\09DemoSum\obj\Debug\netcoreapp2.1\09DemoSum.csprojAssemblyReference.cache
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\09DemoSum\obj\Debug\netcoreapp2.1\09DemoSum.csproj.CoreCompileInputs.cache
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\09DemoSum\obj\Debug\netcoreapp2.1\09DemoSum.AssemblyInfoInputs.cache
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\09DemoSum\obj\Debug\netcoreapp2.1\09DemoSum.AssemblyInfo.cs
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\09DemoSum\obj\Debug\netcoreapp2.1\09DemoSum.dll
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\09DemoSum\obj\Debug\netcoreapp2.1\09DemoSum.pdb
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\09DemoSum\obj\Debug\netcoreapp2.1\09DemoSum.genruntimeconfig.cache

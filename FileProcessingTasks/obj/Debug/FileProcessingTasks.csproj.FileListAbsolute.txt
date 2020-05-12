@@ -1,0 +1,6 @@
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\FileProcessingTasks\bin\Debug\FileProcessingTasks.exe.config
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\FileProcessingTasks\bin\Debug\FileProcessingTasks.exe
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\FileProcessingTasks\bin\Debug\FileProcessingTasks.pdb
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\FileProcessingTasks\obj\Debug\FileProcessingTasks.csproj.CoreCompileInputs.cache
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\FileProcessingTasks\obj\Debug\FileProcessingTasks.exe
+C:\Users\ddabovski\Downloads\advanced.day.02.threading\FileProcessingTasks\obj\Debug\FileProcessingTasks.pdb

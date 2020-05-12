@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "a4tcxcH8GENbpAp2/5sz9U7akP5TrIk9P9kn3Txj+LPDZZeRVGOEQZCG/rq6XX9JPYzKeg1STz9U/0IW3IyjiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ddabovski\\Downloads\\advanced.day.02.threading\\09DemoSum\\09DemoSum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ddabovski\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\ddabovski\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\ddabovski\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\ddabovski\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\ddabovski\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\ddabovski\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\ddabovski\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
